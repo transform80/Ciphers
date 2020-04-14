@@ -10,3 +10,6 @@ Various Cryptographic ciphers
 
 # DES - Data Encyption Standard
 The Data Encryption Standard is a symmetric-key algorithm for the encryption of digital data.
+
+# ECDSA - Elliptic Curve Digital Signature Algorithm
+ECDSA is a cryptographic algorithm used by Bitcoin to ensure that funds can only be spent by their rightful owners.
